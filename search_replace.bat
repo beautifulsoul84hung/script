@@ -1,0 +1,1 @@
+C:\Windows\winsxs\wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_6.1.7600.16385_none_cf5f9aad50446c26\powershell.exe -Command "(gc s_replacefile.txt) -replace 'khong co', 'co' > Out-File myFile.txt"
